@@ -1,2 +1,2 @@
-[GitHub](http://github.com)
+[GitHub](https://github.com/mg7530)
 
