@@ -1,2 +1,3 @@
-[my GitHub profile](https://github.com/mg7530)
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
 
